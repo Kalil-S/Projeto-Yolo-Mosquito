@@ -1,4 +1,4 @@
-# #Relatório Técnico - Deep Learning (Mosquito detection - YOLO)
+# Relatório Técnico - Deep Learning (Mosquito detection - YOLO)
 
 ## 1. Capa
 * **Equipe:** Grupo G
