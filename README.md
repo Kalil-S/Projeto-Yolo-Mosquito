@@ -6,3 +6,5 @@
   * Gabriel Abreu Cunha De Alencar - 2315097
   * Igor Gomes Ximenes -2217665
   * Kalil Smith Pinto Palheta - 2223857
+
+## (OBS): Caso a visualização do arquivo `main.ipynb` no github não funcionar, clique neste link [Repositório no nbviewer] (https://nbviewer.org/github/Kalil-S/Projeto-Yolo-Mosquito/tree/main/)
