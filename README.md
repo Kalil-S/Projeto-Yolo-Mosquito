@@ -14,4 +14,4 @@
 > [!WARNING]
 > Unable to render code block
 
- Clique neste link, para conseguir visualizar: [Repositório no nbviewer](https://nbviewer.org/github/Kalil-S/Projeto-Yolo-Mosquito/tree/main/)
+ Clique neste link, para conseguir visualizar: [Repositório no nbviewer](https://nbviewer.org/github/Kalil-S/Projeto-Yolo-Mosquito/tree/main/) ou [Link do Google Colab](https://colab.research.google.com/drive/1BX3l0i1hHpmp_wwaftm5JwycmrLyopva?usp=sharing)
